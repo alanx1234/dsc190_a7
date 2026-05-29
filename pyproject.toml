@@ -8,4 +8,5 @@ dependencies = [
 	"pandas",
 	"marimo",
 	"matplotlib",
+	"dvc>=3.67.1",
 ]
